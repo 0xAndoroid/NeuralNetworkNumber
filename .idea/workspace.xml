@@ -23,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/NeuralNetworkNumber" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TWHTXA4r1bzXmVwoeTv5Opn2IH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -43,11 +43,12 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Andriy\Coding\Java\NeuralNetworkNumber\core\assets" />
+      <recent name="C:\Andriy\Java\NeuralNetworkNumber\core\assets" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Andriy\Java\NeuralNetworkNumber\core\src\ua\andoroid\firstneuralnetwork\neuralnetwork" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Andriy\Java\NeuralNetworkNumber\core\assets" />
     </key>
   </component>
   <component name="RunManager">
@@ -105,7 +106,7 @@
       <workItem from="1575093112562" duration="1346000" />
       <workItem from="1575124782519" duration="896000" />
       <workItem from="1575138391583" duration="362000" />
-      <workItem from="1604176820502" duration="290000" />
+      <workItem from="1604176820502" duration="568000" />
     </task>
     <servers />
   </component>
